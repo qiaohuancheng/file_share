@@ -19,3 +19,4 @@ file_share是个人编写的一个项目，该项目的目的是实现多主机�
 --------
 *需要安装libxml2，并修改client.h和server.h中libxml2相应的路径<br>
 *在服务端程序所要编译的主机上，还应安装MYSQL,以及创建相应的库以及表<br>
+*同时还要注意makefile的修改
